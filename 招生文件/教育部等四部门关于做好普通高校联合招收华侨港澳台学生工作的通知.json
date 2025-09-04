@@ -1,8 +1,8 @@
 [
   {
-    "id": "44",
+    "id": "4",
     "parent_id": "",
-    "name": "关于做好普通高校联合招收华侨港澳台学生工作的通知",
+    "name": "教育部等四部门关于做好普通高校联合招收华侨港澳台学生工作的通知",
     "province": "全国",
     "year": "2018",
     "rule_type": "process",
@@ -12,12 +12,12 @@
     "constraint_rules": [],
     "normal_result": "精心组织实施，切实做好各项工作",
     "abnormal_result": "职责不清影响工作推进",
-    "children": [],
+    "children": [5,6,7,8],
     "text": []
   },
   {
-    "id": "45",
-    "parent_id": "44",
+    "id": "5",
+    "parent_id": "4",
     "name": "加强组织领导",
     "province": "全国", 
     "year": "2018",
@@ -41,8 +41,8 @@
     ]
   },
   {
-    "id": "46",
-    "parent_id": "44",
+    "id": "6",
+    "parent_id": "4",
     "name": "加强报名资格审核和公示",
     "province": "全国",
     "year": "2018",
@@ -69,8 +69,8 @@
     ]
   },
   {
-    "id": "47",
-    "parent_id": "44",
+    "id": "7",
+    "parent_id": "4",
     "name": "加强考试录取管理",
     "province": "全国",
     "year": "2018",
@@ -97,8 +97,8 @@
     ]
   },
   {
-    "id": "48",
-    "parent_id": "44",
+    "id": "8",
+    "parent_id": "4",
     "name": "加强学籍和在校管理",
     "province": "全国",
     "year": "2018",
@@ -139,7 +139,7 @@
     "constraint_rules": [],
     "normal_result": "确保符合条件的学生能够顺利报名",
     "abnormal_result": "不符合条件的考生无法报名",
-    "children": [],
+    "children": [49,50,51,52,53,54,55,56,57],
     "text": []
   },
   {

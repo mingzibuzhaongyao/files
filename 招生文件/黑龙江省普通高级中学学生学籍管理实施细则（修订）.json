@@ -1,4 +1,20 @@
 [
+	{
+    "id": "0",
+    "parent_id": "",
+    "name": "黑龙江省普通高级中学学生学籍管理实施细则（修订）",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "file",
+    "definition": "黑龙江省教育厅 2022年8月3日 发布的文件",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [],
+    "normal_result": "",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["黑龙江省普通高级中学学生学籍管理实施细则（修订）"]
+  },
   {
     "id": "1",
     "parent_id": "",
@@ -12,7 +28,7 @@
     "constraint_rules": [],
     "normal_result": "",
     "abnormal_result": "",
-    "children": [],
+    "children": [2,3,4],
     "text": []
   },
   {
@@ -97,7 +113,7 @@
   },
   {
     "id": "6",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "招生录取与入学注册",
     "province": "黑龙江",
     "year": "2025",
@@ -124,7 +140,7 @@
   },
   {
     "id": "7",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "跨省返籍与随迁子女就读",
     "province": "黑龙江",
     "year": "2025",
@@ -146,7 +162,7 @@
   },
   {
     "id": "8",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "学籍编号与唯一性",
     "province": "黑龙江",
     "year": "2025",
@@ -164,7 +180,7 @@
   },
   {
     "id": "9",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "违规学籍注销",
     "province": "黑龙江",
     "year": "2025",
@@ -191,7 +207,7 @@
   },
   {
     "id": "10",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "学籍档案建立",
     "province": "黑龙江",
     "year": "2025",
@@ -215,12 +231,13 @@
       "(三)综合素质发展报告册；",
       "(四)在校期间的获奖和处分信息；",
       "(五)享受资助信息；",
-      "(六)上级教育行政部门规定的其他信息和材料。"
+      "(六)上级教育行政部门规定的其他信息和材料。",
+	  "学籍基础信息表由教育部统一制订。学生综合素质发展报告册按《黑龙江省教育厅关于加强普通高中学生发展指导工作的意见》执行。"
     ]
   },
   {
     "id": "11",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "学籍变动管理",
     "province": "黑龙江",
     "year": "2025",
@@ -241,7 +258,7 @@
   },
   {
     "id": "12",
-    "parent_id": "6",
+    "parent_id": "5",
     "name": "学籍档案转接",
     "province": "黑龙江",
     "year": "2025",

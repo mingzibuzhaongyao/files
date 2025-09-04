@@ -1,0 +1,698 @@
+[
+  {
+    "id": "1",
+    "parent_id": "",
+    "name": "黑龙江：关于残疾考生参加普通高等学校招生全国统一考试考务管理规定的通知",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "general",
+    "definition": "残疾考生参加高考的合理便利措施及考务管理规定",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [],
+    "normal_result": "",
+    "abnormal_result": "",
+    "children": [2, 13, 18,27],
+    "text": [
+      "各市(行署)、县(市、区)招考办，省农垦总局及各管理局招考办：",
+      "根据《教育部 中国残联关于印发<残疾人参加普通高等学校招生全国统一考试管理规定>的通知》(教学〔2017〕4号)的通知精神，为维护残疾人合法权益，保障残疾人平等参加普通高等学校招生全国统一考试(以下简称高考)，切实做好我省残疾考生参加普通高考的考试管理工作，除依据本规定提供合理便利外,其他应按照当年度《教育部普通高等学校招生全国统一考试考务工作规定》和《黑龙江省普通高校招生全国统一考试考务工作规定》执行。现就相关工作通知如下："
+    ]
+  },
+  {
+    "id": "2",
+    "parent_id": "1",
+    "name": "一、残疾考生合理便利措施",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "为残疾考生提供的合理便利措施清单",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "必须保证考试安全和考场秩序",
+      "合理便利需结合残疾程度和本地考试条件"
+    ],
+    "normal_result": "残疾考生获得必要辅助设备或特殊安排",
+    "abnormal_result": "未按需提供合理便利导致考试障碍",
+    "children": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "text": [
+      "各级招考办在保证考试安全和考场秩序的前提下，根据残疾考生的残疾情况和具体需要以及各地工作实际，提供以下一种或几种必要条件和合理便利："
+    ]
+  },
+  {
+    "id": "3",
+    "parent_id": "2",
+    "name": "1.听力残疾考生免除外语听力考试",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "听力残疾考生外语听力考试豁免政策",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [],
+    "normal_result": "听力残疾考生无需参加外语听力考试",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["1.为听力残疾考生免除外语听力考试。"]
+  },
+  {
+    "id": "4",
+    "parent_id": "2",
+    "name": "2.视力残疾考生携带辅助器具",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "视力残疾考生允许携带的辅助设备",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "电子助视器需无存储功能",
+      "光学放大镜等辅助器具需经检测"
+    ],
+    "normal_result": "视力残疾考生可携带指定辅助设备",
+    "abnormal_result": "携带违禁设备被禁止入场",
+    "children": [],
+    "text": ["2.允许视力残疾考生携带无存储功能的电子助视器、台灯、光学放大镜等辅助器具或设备。"]
+  },
+  {
+    "id": "5",
+    "parent_id": "2",
+    "name": "3.听力残疾考生携带助听设备",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "听力残疾考生允许使用的助听设备",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "助听器、人工耳蜗需经无线电管理部门检测"
+    ],
+    "normal_result": "听力残疾考生可正常使用助听设备",
+    "abnormal_result": "未检测设备被禁止使用",
+    "children": [],
+    "text": ["3.允许听力残疾考生携带助听器、人工耳蜗等助听辅听设备。"]
+  },
+  {
+    "id": "6",
+    "parent_id": "2",
+    "name": "4.行动不便考生使用辅助工具",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "行动不便残疾考生的辅助工具使用",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "特殊桌椅需经批准自带"
+    ],
+    "normal_result": "行动不便考生可使用辅助工具入场",
+    "abnormal_result": "未登记工具被禁止携带",
+    "children": [],
+    "text": ["4.允许行动不便的残疾考生使用轮椅、助行器等，有特殊需要的残疾考生可以自带特殊桌椅参加考试。"]
+  },
+  {
+    "id": "7",
+    "parent_id": "2",
+    "name": "5.延长考试时间",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "书写困难残疾考生的考试时间延长",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "延长30%总时长",
+      "仅限视力残疾或书写困难考生"
+    ],
+    "normal_result": "考生获得额外考试时间",
+    "abnormal_result": "未申请或不符合条件者被拒绝",
+    "children": [],
+    "text": ["5.适当延长考试时间：视力残疾考生、因脑瘫或其他疾病引起的上肢无法正常书写或无上肢考生等书写特别困难考生的考试时间，在该科目规定考试总时长的基础上延长30%。"]
+  },
+  {
+    "id": "8",
+    "parent_id": "2",
+    "name": "6.优先进入考点",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "残疾考生进入考点的优先安排",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [],
+    "normal_result": "残疾考生提前进入考场",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["6.优先进入考点、考场。"]
+  },
+  {
+    "id": "9",
+    "parent_id": "2",
+    "name": "7.单独标准化考场设置",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "特殊考场环境配置",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "需配备独立外语听力播放设备"
+    ],
+    "normal_result": "考生在专用考场参加考试",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["7.设立环境整洁安静、采光适宜、便于出入的单独标准化考场, 配设单独的外语听力播放设备。"]
+  },
+  {
+    "id": "10",
+    "parent_id": "2",
+    "name": "8.配备专门工作人员",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "考场辅助人员配置",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "需经培训的专业引导人员"
+    ],
+    "normal_result": "考生获得全程辅助服务",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["8.考点、考场配备专门的工作人员(如引导辅助人员等)予以协助。"]
+  },
+  {
+    "id": "11",
+    "parent_id": "2",
+    "name": "9.设置指示标识",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "考场信息无障碍配置",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [],
+    "normal_result": "考生通过文字标识获取考试信息",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["9.考点、考场设置文字指示标识、交流板等。"]
+  },
+  {
+    "id": "12",
+    "parent_id": "2",
+    "name": "10.其他合理便利",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "其他个性化便利措施",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "需经招考办审核批准"
+    ],
+    "normal_result": "考生获得额外个性化支持",
+    "abnormal_result": "",
+    "children": [],
+    "text": ["10.其他必要且能够提供的合理便利。"]
+  },
+  {
+    "id": "13",
+    "parent_id": "1",
+    "name": "二、残疾考生申请合理便利的一般程序",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "合理便利申请的完整流程",
+    "prerequisite_rules": [],
+    "process": [
+      "提交书面申请并提供证明材料",
+      "专家组评估确认",
+      "省招考院审核并反馈结果",
+      "异议处理机制"
+    ],
+    "constraint_rules": [
+      "申请必须在高考体检期间提交",
+      "需提供第二代及以上残疾人证"
+    ],
+    "normal_result": "考生获得批准的合理便利",
+    "abnormal_result": "申请未通过需补充材料",
+    "children": [14, 15, 16, 17],
+    "text": [
+      "1.凡报名参加高考并申请提供合理便利的残疾考生，在每年普通高考体检过程中向考生报名所在市(行署)、省农垦总局招考办〔以下简称市(行署)招考办〕提出正式书面申请。",
+      "2.市(行署)招考办协调当地残联、卫生等相关部门专业人员成立专家组，在当年普通高考体检期间对残疾考生身份及残疾情况进行确认。",
+      "3.市(行署)招考办在高考体检结束后5个工作日内将《申请表》和《评估报告》报送至黑龙江省招生考试院(以下简称省招考院)，由省招考院审核。",
+      "4.残疾考生对《告知书》内容有异议，可在收到《告知书》后5个工作日内向省教育厅提出书面复核申请。"
+    ]
+  },
+  {
+    "id": "14",
+    "parent_id": "13",
+    "name": "1.提交申请",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "合理便利申请的初始步骤",
+    "prerequisite_rules": [],
+    "process": [
+      "填写《申请表》",
+      "提交残疾证明材料"
+    ],
+    "constraint_rules": [
+      "需在高考体检期间申请",
+      "必须提供有效身份证件"
+    ],
+    "normal_result": "申请材料初审通过",
+    "abnormal_result": "材料不全需补交",
+    "children": [],
+    "text": [
+      "凡报名参加高考并申请提供合理便利的残疾考生，在每年普通高考体检过程中向考生报名所在市(行署)、省农垦总局招考办〔以下简称市(行署)招考办〕提出正式书面申请。申请内容应包括本人基本信息、残疾情况、所申请的合理便利以及需自带物品等，并提供本人第二代及以上《中华人民共和国残疾人证》、《居民身份证》和《户口簿》的原件，填写《黑龙江省残疾人报考XX年普通高等学校招生全国统一考试合理便利申请表》(以下简称《申请表》)(见附件1)。"
+    ]
+  },
+  {
+    "id": "15",
+    "parent_id": "13",
+    "name": "2.专家评估",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "残疾情况专业评估流程",
+    "prerequisite_rules": [],
+    "process": [
+      "残联、卫生部门联合评估",
+      "填写《评估报告》"
+    ],
+    "constraint_rules": [
+      "需结合日常学习情况评估",
+      "评估报告需详细记录"
+    ],
+    "normal_result": "获得评估结论",
+    "abnormal_result": "评估未通过需重新申请",
+    "children": [],
+    "text": [
+      "市(行署)招考办协调当地残联、卫生等相关部门专业人员成立专家组，在当年普通高考体检期间对残疾考生身份及残疾情况进行确认，结合残疾考生残疾程度、日常学习生活情况、提出的合理便利申请以及本地考试组织条件等因素进行综合评估，并填写《黑龙江省残疾人报考XX年普通高等学校招生全国统一考试合理便利申请评估报告表》(以下简称《评估报告》)(见附件2)。"
+    ]
+  },
+  {
+    "id": "16",
+    "parent_id": "13",
+    "name": "3.审核与反馈",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "省级审核与结果告知",
+    "prerequisite_rules": [],
+    "process": [
+      "省招考院审核申请材料",
+      "填写《告知书》并送达"
+    ],
+    "constraint_rules": [
+      "审核结果需在5个工作日内反馈"
+    ],
+    "normal_result": "考生获知最终决定",
+    "abnormal_result": "未按时反馈需催办",
+    "children": [],
+    "text": [
+      "市(行署)招考办在高考体检结束后5个工作日内将《申请表》和《评估报告》报送至黑龙江省招生考试院(以下简称省招考院)，由省招考院审核，并将审核结果告之市(行署)招考办，由省招考院填写《黑龙江省普通高等学校招生全国统一考试残疾考生申请便利结果告知书》(以下简称《告知书》)(见附件3)，由市(行署)招考办在规定的时限内将《告知书》送达各级招考办和残疾考生，由残疾考生或法定监护人确认、签收。"
+    ]
+  },
+  {
+    "id": "17",
+    "parent_id": "13",
+    "name": "4.异议处理",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "申请结果异议申诉机制",
+    "prerequisite_rules": [],
+    "process": [
+      "向省教育厅提出书面复核",
+      "5个工作日内处理"
+    ],
+    "constraint_rules": [],
+    "normal_result": "异议得到官方回应",
+    "abnormal_result": "未在时限内申诉视为放弃",
+    "children": [],
+    "text": [
+      "残疾考生对《告知书》内容有异议，可在收到《告知书》后5个工作日内向省教育厅提出书面复核申请。"
+    ]
+  },
+  {
+    "id": "18",
+    "parent_id": "1",
+    "name": "三、残疾考生考务操作要点",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "残疾考生考试实施的关键环节",
+    "prerequisite_rules": [],
+    "process": [
+      "器材检测与携带",
+      "特殊答题卡处理",
+      "延长考试时间监控",
+      "考场照明配置",
+      "考务人员沟通方式",
+      "违规处理机制"
+    ],
+    "constraint_rules": [
+      "助听器等设备需经无线电检测",
+      "特殊答题卡需单独评阅",
+      "延长考试时间需专人监控"
+    ],
+    "normal_result": "考试过程顺利进行",
+    "abnormal_result": "未按规程操作导致考试中断",
+    "children": [19, 20, 21, 22, 23, 24, 25, 26],
+    "text": [
+      "1.因肢体残疾或听力残障需携带相应器材进入考场考试的考生，必须经过相应部门检测后方可带入考场。",
+      "2.书写困难的考生申请使用无法扫描成电子格式特殊答题卡进行答卷。",
+      "3.因脑瘫或其他疾病引起的上肢无法正常书写或无上肢考生等书写特别困难的残疾考生，要在单独设置的标准化考场进行考试。",
+      "4.行动不便的残疾考生可以提前进入考点、考场。",
+      "5.考生申请延长考试时间组织考试的考点，需指定一名副主考专门对延长考试的时间进行监控。",
+      "6.有申请使用照明设施考试的考场，考点须配备残疾考生所需照明台灯的电源接线板或插座等辅助设备。",
+      "7.有听力、言语残疾考生参加考试的，考点和考场须准备用于提醒考生各项注意事项的文字指示标识。",
+      "8.残疾考生在考试过程中违规行为的认定与处理，按照《国家教育考试违规处理办法》(教育部令33号)执行。"
+    ]
+  },
+  {
+    "id": "19",
+    "parent_id": "18",
+    "name": "1.器材检测",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "考试辅助设备检测流程",
+    "prerequisite_rules": [],
+    "process": [
+      "助听器等设备需经无线电管理部门检测",
+      "其他器材由招考办检测"
+    ],
+    "constraint_rules": [
+      "未经检测设备禁止带入考场"
+    ],
+    "normal_result": "合格设备准予使用",
+    "abnormal_result": "检测不合格设备被没收",
+    "children": [],
+    "text": [
+      "因肢体残疾或听力残障需携带相应器材进入考场考试的考生，必须经过相应部门检测后方可带入考场;申请携带助听器、人工耳蜗和电子助视器等相应器材的考生必须由当地无线电管理委员会检测，其他器材由当地招考办负责检测。"
+    ]
+  },
+  {
+    "id": "20",
+    "parent_id": "18",
+    "name": "2.特殊答题卡处理",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "特殊答题卡的评卷要求",
+    "prerequisite_rules": [],
+    "process": [
+      "单独扫描并人工评阅",
+      "遵循教育部评卷规定"
+    ],
+    "constraint_rules": [
+      "必须使用专用答题卡"
+    ],
+    "normal_result": "答卷正常评阅",
+    "abnormal_result": "未使用指定答题卡影响评分",
+    "children": [],
+    "text": [
+      "书写困难的考生申请使用无法扫描成电子格式特殊答题卡进行答卷，考生答卷进行单独评阅，评卷工作按照教育部高考评卷工作有关规定执行。"
+    ]
+  },
+  {
+    "id": "21",
+    "parent_id": "18",
+    "name": "3.单独考场安排",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "特殊考生考场设置",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "必须在标准化考场进行"
+    ],
+    "normal_result": "考生在专用考场考试",
+    "abnormal_result": "未安排专用考场影响考试",
+    "children": [],
+    "text": [
+      "因脑瘫或其他疾病引起的上肢无法正常书写或无上肢考生等书写特别困难的残疾考生，要在单独设置的标准化考场进行考试。"
+    ]
+  },
+  {
+    "id": "22",
+    "parent_id": "18",
+    "name": "4.行动辅助服务",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "行动不便考生全程辅助流程",
+    "prerequisite_rules": [],
+    "process": [
+      "提前入场",
+      "全程引导辅助",
+      "安全检查协助"
+    ],
+    "constraint_rules": [
+      "需1人/生配备引导员"
+    ],
+    "normal_result": "考生顺利完成入场和离场",
+    "abnormal_result": "辅助人员不足影响考试",
+    "children": [],
+    "text": [
+      "行动不便的残疾考生可以提前进入考点、考场。考点按1人/生的标准配备引导辅助人员，负责将有需要的残疾考生从考点警戒线引导至考场门口，协助其进行入场安全检查和违禁物品检查。检查通过后，由考场监考人员引导残疾考生到相应的座位上准备考试。考试结束后，引导辅助人员负责将残疾考生从考场门口引导至考点警戒线并交给残疾考生家长或法定监护人。"
+    ]
+  },
+  {
+    "id": "23",
+    "parent_id": "18",
+    "name": "5.时间监控",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "延长考试时间的监管要求",
+    "prerequisite_rules": [],
+    "process": [
+      "指定副主考专门监控",
+      "确保时间精确度"
+    ],
+    "constraint_rules": [
+      "必须准确记录延长时间"
+    ],
+    "normal_result": "考试时间准确执行",
+    "abnormal_result": "时间记录错误影响评分",
+    "children": [],
+    "text": [
+      "考生申请延长考试时间组织考试的考点，需指定一名副主考专门对延长考试的时间进行监控，确保考试时间准确。"
+    ]
+  },
+  {
+    "id": "24",
+    "parent_id": "18",
+    "name": "6.照明设备配置",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "特殊照明需求的考场配置",
+    "prerequisite_rules": [],
+    "process": [
+      "安装专用电源设备",
+      "确保照明充足"
+    ],
+    "constraint_rules": [],
+    "normal_result": "考生获得必要照明条件",
+    "abnormal_result": "未配置设备影响考试",
+    "children": [],
+    "text": [
+      "有申请使用照明设施考试的考场，考点须配备残疾考生所需照明台灯的电源接线板或插座等辅助设备。"
+    ]
+  },
+  {
+    "id": "25",
+    "parent_id": "18",
+    "name": "7.沟通方式规范",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "与听力/言语残疾考生的沟通方法",
+    "prerequisite_rules": [],
+    "process": [
+      "文字指示标识提示",
+      "笔谈交流记录备案"
+    ],
+    "constraint_rules": [
+      "交流板需随考场记录提交"
+    ],
+    "normal_result": "考生准确接收考试指令",
+    "abnormal_result": "沟通失误导致考生违规",
+    "children": [],
+    "text": [
+      "有听力、言语残疾考生参加考试的，考点和考场须准备用于提醒考生各项注意事项的文字指示标识，监考员按照考务工作要求，按时、准确向残疾考生进行提示。如确有必要，监考员可以通过交流板用笔谈的方式与残疾考生交流，笔谈文字记录待考试结束后随考场记录单一并报省招考院备案。"
+    ]
+  },
+  {
+    "id": "26",
+    "parent_id": "18",
+    "name": "8.违规处理",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "考试违规行为处理依据",
+    "prerequisite_rules": [],
+    "process": [
+      "依《国家教育考试违规处理办法》处理",
+      "涉嫌违法移送司法机关"
+    ],
+    "constraint_rules": [
+      "严格遵守教育部令33号规定"
+    ],
+    "normal_result": "违规行为依法处理",
+    "abnormal_result": "处理不当引发纠纷",
+    "children": [],
+    "text": [
+      "残疾考生在考试过程中违规行为的认定与处理，按照《国家教育考试违规处理办法》(教育部令33号)执行，涉嫌违法的，由考点或考区所在地招考办移送当地司法机关，按照《中华人民共和国刑法修正案(九)》及有关法规进行处理。"
+    ]
+  },
+  {
+    "id": "27",
+    "parent_id": "1",
+    "name": "四、其他",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "附加管理要求",
+    "prerequisite_rules": [],
+    "process": [
+      "考务准备与培训",
+      "材料归档",
+      "应急预案制定",
+      "延时申请专项评估",
+      "文件时效性说明"
+    ],
+    "constraint_rules": [
+      "需全程录像并建档",
+      "体检数据需体现残疾情况",
+      "2019年起施行"
+    ],
+    "normal_result": "考试管理规范化",
+    "abnormal_result": "未达标需整改",
+    "children": [28, 29, 30, 31, 32],
+    "text": [
+      "1.各级招考办可根据本地实际，提前做好相应的准备和专项技能培训工作，按照省招考院批准的合理便利服务条件组织考试，考试过程全程录像并建档备查。",
+      "2.市(行署)招考办要留存残疾考生申请合理便利相关材料复印件并建档备查，考生残疾情况要在高考体检数据中体现。",
+      "3.各级招考办要在已制定的突发事件应急预案基础上，结合本地实际，制定具有适用于残疾考生特点的专项预案，并组织相关考务工作人员进行必要的演练。",
+      "4.不能正常书写申请延时的残疾考生要重点进行评估，要对以前的考试情况(如中考)、平时在高中模拟考试等进行调查，并在评估现场进行模拟书写，确保申请延时的残疾考生真实准确。",
+      "5.本规定从2019年全省普通高考施行。如教育部有新的工作规定和要求，以教育部最新文件为准。"
+    ]
+  },
+  {
+    "id": "28",
+    "parent_id": "27",
+    "name": "1.考务准备",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "考务前期准备工作要求",
+    "prerequisite_rules": [],
+    "process": [
+      "专项技能培训",
+      "全程录像存档"
+    ],
+    "constraint_rules": [
+      "必须按省招考院批准的条件执行"
+    ],
+    "normal_result": "考试组织规范有序",
+    "abnormal_result": "准备不足影响考试",
+    "children": [],
+    "text": [
+      "各级招考办可根据本地实际，提前做好相应的准备和专项技能培训工作，按照省招考院批准的合理便利服务条件组织考试，考试过程全程录像并建档备查。"
+    ]
+  },
+  {
+    "id": "29",
+    "parent_id": "27",
+    "name": "2.材料归档",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "考试材料存档要求",
+    "prerequisite_rules": [],
+    "process": [
+      "留存申请材料复印件",
+      "更新体检数据"
+    ],
+    "constraint_rules": [
+      "必须将残疾情况录入体检系统"
+    ],
+    "normal_result": "档案完整可追溯",
+    "abnormal_result": "材料缺失影响核查",
+    "children": [],
+    "text": [
+      "市(行署)招考办要留存残疾考生申请合理便利相关材料复印件并建档备查，考生残疾情况要在高考体检数据中体现。"
+    ]
+  },
+  {
+    "id": "30",
+    "parent_id": "27",
+    "name": "3.应急预案",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "针对残疾考生的应急方案",
+    "prerequisite_rules": [],
+    "process": [
+      "制定专项预案",
+      "组织演练"
+    ],
+    "constraint_rules": [],
+    "normal_result": "突发情况有效应对",
+    "abnormal_result": "预案缺失导致混乱",
+    "children": [],
+    "text": [
+      "各级招考办要在已制定的突发事件应急预案基础上，结合本地实际，制定具有适用于残疾考生特点的专项预案，并组织相关考务工作人员进行必要的演练。"
+    ]
+  },
+  {
+    "id": "31",
+    "parent_id": "27",
+    "name": "4.延时申请评估",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "特殊延时申请的评估标准",
+    "prerequisite_rules": [],
+    "process": [
+      "历史考试情况调查",
+      "现场模拟书写测试"
+    ],
+    "constraint_rules": [
+      "需确保申请真实性"
+    ],
+    "normal_result": "准确判断是否符合延时条件",
+    "abnormal_result": "虚假申请被取消资格",
+    "children": [],
+    "text": [
+      "不能正常书写申请延时的残疾考生要重点进行评估，要对以前的考试情况(如中考)、平时在高中模拟考试等进行调查，并在评估现场进行模拟书写，确保申请延时的残疾考生真实准确。"
+    ]
+  },
+  {
+    "id": "32",
+    "parent_id": "27",
+    "name": "5.文件时效性",
+    "province": "黑龙江",
+    "year": "2025",
+    "rule_type": "specific",
+    "definition": "规定实施时间及更新机制",
+    "prerequisite_rules": [],
+    "process": [],
+    "constraint_rules": [
+      "2019年起施行",
+      "以教育部最新文件为准"
+    ],
+    "normal_result": "政策持续有效",
+    "abnormal_result": "未及时更新导致执行错误",
+    "children": [],
+    "text": [
+      "本规定从2019年全省普通高考施行。如教育部有新的工作规定和要求，以教育部最新文件为准。"
+    ]
+  }
+]
